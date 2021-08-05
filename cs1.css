@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.form{
+ width: 300px;
+ padding: 20px;
+ margin: 0 auto;
+ font-weight: 700px;
+ color:#FFF;
+ background-color: rgba(0, 0, 0, 0.4) !important;
+ 
+	
+	}
+.form input {
+ width: 90% !important;
+ padding: 10px;
+}
+
